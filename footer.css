@@ -1,6 +1,6 @@
 .footer {
     margin-top: 110px;
-    background-color:rgb(238, 220, 234);
+    background-color:rgb(241, 231, 239);
     padding: 50px 0;
     color: #050404;
     font-weight: 600;
@@ -43,11 +43,12 @@
   }
   
   .footer .copyright {
-    background-color:#977197;
-    color: #fff;
+    background-color:#927792;
+    color: #f8f1f1;
     padding: 10px 0;
     text-align: center;
     clear: both;
+    font-size: large;
   }
   #disclaimer{
     margin-top: 20px;
