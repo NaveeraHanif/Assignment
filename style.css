@@ -36,19 +36,19 @@
     padding-right: 5px;
 }
 #icon:hover{
-    color: blue;
+    color: rgb(95, 95, 226);
     cursor: pointer;
 }
 .cart{
     text-decoration: none;
     text-align: center;
-    margin-left: 50px;
-    padding-top: 15px;
-    padding-left: 10px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding: 10px;
     border-radius: 5px;
     height: 40px;
     margin-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 32px;
     color: rgb(145, 20, 113);
     background-color: rgb(253, 243, 253);
     font-weight: 500;
@@ -63,9 +63,9 @@
     transition:0.5s
 }
 .card-title{
-    padding-left: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 600;
+    padding-left: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
 }
 #carticon{
     padding-right: 10px;
@@ -78,5 +78,59 @@ img{
     color: rgb(145, 80, 145);
     font-family: cursive;
     font-size: 800;
-
+}
+.shopnow{
+    margin-top: 20px;
+    margin-left: 40px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    padding-bottom: 32px;
+    color: rgb(145, 20, 113);
+    background-color: rgb(253, 243, 253);
+    font-weight: 500;
+    border-color: rgb(138, 17, 112);
+    width: 130px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shopnow:hover{
+    background-color: rgb(121, 31, 94);
+    color: rgb(245, 236, 242);
+    transition:0.5s
+}
+.head1{
+    padding-left: 30px;
+    padding-top: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(124, 19, 124);
+}
+.p1{
+    padding-left: 30px;
+    font-size: large;
+    font-weight: 500;
+}
+.matchme{
+    margin-left: 30px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    padding-bottom: 32px;
+    color: rgb(116, 31, 94);
+    background-color: rgb(248, 237, 248);
+    border-color: rgb(100, 21, 80);
+    width: 150px;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.matchme:hover{
+    background-color: rgb(121, 31, 94);
+    color: rgb(248, 240, 246);
+    transition:0.5s
 }

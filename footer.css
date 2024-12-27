@@ -1,7 +1,7 @@
 .footer {
     margin-top: 110px;
     background-color:rgb(241, 231, 239);
-    padding: 50px 0;
+    padding: 70px 0;
     color: #050404;
     font-weight: 600;
   }
@@ -12,7 +12,7 @@
   
   .footer h4 {
     padding-right: 220px;
-    color: #a71068;
+    color: #961560;
     font-weight: bold;
     margin-bottom: 20px;
   }
@@ -43,8 +43,8 @@
   }
   
   .footer .copyright {
-    background-color:#927792;
-    color: #f8f1f1;
+    background-color:#af9eaf;
+    color: #4d064d;
     padding: 10px 0;
     text-align: center;
     clear: both;
